@@ -2,7 +2,7 @@
 
 <img src="photo.jpg" alt="isolated" width="150"/>
 
-## ***Junior Frontend Developer***
+## **Junior Frontend Developer**
 
 ### *Contact information:*
 
