@@ -4,8 +4,6 @@
 
 ## **Junior Frontend Developer**
 
----
-
 ### *Contact information:*
 
 #### **Phone:** *+375296728083*
