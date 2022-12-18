@@ -1,4 +1,4 @@
-# Yelizaveta Andreichyk         
+# Yelizaveta Andreichyk
 
 <img src="photo.jpg" alt="isolated" width="150"/>
 
@@ -7,9 +7,13 @@
 ### *Contact information:*
 
 #### **Phone:** *+375296728083*
+
 #### **E-mail:** *6728083@gmail.com*
+
 #### **Telegram:** *@leecheee*
+
 #### **Discord:** *@leecheeee*
+
 #### **LinkedIn:** [www.linkedin.com/in/yelizaveta-andreichyk](www.linkedin.com/in/yelizaveta-andreichyk)
 
 ---
@@ -20,7 +24,7 @@
 
 *I'm constantly improving my skills.*
 
-*I study English. I have a verified elementary level and in the process of upgrading to pre-intermediate.* 
+*I study English. I have a verified elementary level and in the process of upgrading to pre-intermediate.*
 
 [Sertificate is here](https://cert.str.by/streamline-certificate/B15DE546E215F3644B827E8E7D350DF8)
 

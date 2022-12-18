@@ -1,0 +1,88 @@
+.header {
+    border-radius: 20px;
+    text-align: center;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+    overflow: auto;
+    vertical-align: middle;
+}
+
+.name {
+    border-radius: 20px;
+    font: bold;
+    font-size: 200%;
+
+}
+
+.who-i-am {
+    border-radius: 20px;
+    margin-left: 15px;
+}
+
+.about {
+    border-radius: 20px;
+    text-align: center;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+}
+
+.contacts {
+    border-radius: 20px;
+    text-align: left;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+}
+
+.certificate {
+    border-radius: 20px;
+    text-align: center;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+}
+
+.code {
+    border-radius: 20px;
+    font-family: courier, monospace;
+    padding: 0 3px;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+}
+
+.my-projects {
+    border-radius: 20px;
+    text-align: center;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+}
+
+.GitHub {
+    border-radius: 20px;
+    text-align: center;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+}
+
+.year {
+    border-radius: 20px;
+    text-align: center;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+}
+
+.logo {
+    border-radius: 20px;
+    text-align: center;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+}
+
+.link-course {
+    border-radius: 20px;
+    text-align: center;
+    background-color: #F8F4A6;
+    margin-inline: 20%;
+}
+
+.photo {
+    float: left;
+}
